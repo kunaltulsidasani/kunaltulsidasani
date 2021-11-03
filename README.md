@@ -1,16 +1,24 @@
-### Hi there 👋
+<img src="Header.png" width=100%>
+<hr><br>
 
-<!--
-**kunaltulsidasani/kunaltulsidasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there
 
-Here are some ideas to get you started:
+I am an CSE Undergrad @ IIIDMJ, and a Data Science Enthusiast.<br>
+I have knack of the following -
+* Python
+* C++/C
+* Java
+* SK-learn
+* Tensorflow
+* AWS
+    * Sagemaker
+    * API Gateway
+    * Lambda
+    * S3
+    * IAM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+You can contact me -
+* email - tulsidasanikunal@gmail.com
+* linkedIn - https://www.linkedin.com/in/kunal-tulsidasani/
