@@ -8,7 +8,7 @@ I am currently pursuing my Bachelor of Technology in Computer Science Engineerin
 I have first hand experience in NLP, Video Classification and Parallel Computing Projects.<br><br>
 
 ### Reach me: tulsidasanikunal@gmail.com
-### Resume: <a href="https://drive.google.com/file/d/1NYndMcJOaMItlGoI5UpTraTWIUqjJNvU/view?usp=sharing" target="blank">Kunal_Final_Resume.pdf</a>
+### Resume: <a href="https://drive.google.com/file/d/1NYndMcJOaMItlGoI5UpTraTWIUqjJNvU/view?usp=sharing" target="blank">Kunal_Final.pdf</a>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunaltulsidasani&label=Profile%20views&color=0e75b6&style=flat" alt="kunaltulsidasani" /> </p>
